@@ -1,4 +1,4 @@
-# Sale_Visualisation_Tableau
+# Sale Visualisation Tableau
 Built a Product Sales Visualization with the help of Tableau. 
 
 ![Dashboard 1](https://github.com/DarshanHarihar1/Sale_Visualisation_Tableau/assets/144354183/2ffa5369-809a-4c79-9755-9748d1513761)
